@@ -10,11 +10,12 @@
 
 
 ## Previsualización
-https://mariam-levy.github.io/FrontendMentor-Challenge/
+https://mariam-levy.github.io/Fylo-Challenge./
 
 ## Creditos por el diseño
 Frontend Mentor 
 
-Reto: https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV
+Reto: https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n
 
-![desktop-design](https://github.com/Mariam-Levy/FrontendMentor-Challenge/assets/80288291/e2551be9-ff34-4b6b-85cc-bd4ae3d58913)
+
+
