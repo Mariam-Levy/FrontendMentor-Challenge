@@ -13,6 +13,8 @@
 https://mariam-levy.github.io/FrontendMentor-Challenge/
 
 ## Creditos por el diseño
-Frontend Mentor
+Frontend Mentor 
+
+Reto: https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV
 
 ![desktop-design](https://github.com/Mariam-Levy/FrontendMentor-Challenge/assets/80288291/e2551be9-ff34-4b6b-85cc-bd4ae3d58913)
