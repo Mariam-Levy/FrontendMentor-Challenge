@@ -17,5 +17,6 @@ Frontend Mentor
 
 Reto: https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n
 
+![desktop](https://github.com/Mariam-Levy/FrontendMentor-Challenge/assets/80288291/2257eb6e-7367-4cce-9e82-f493a7ee0005)
 
 
